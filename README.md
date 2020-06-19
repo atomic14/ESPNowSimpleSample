@@ -6,7 +6,7 @@ You can find an overview of ESP-NOW [here](https://www.espressif.com/en/products
 
 And detailed documentation [here](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html).
 
-[![Demo Video](https://img.youtube.com/vi/GLoXRyAtytY/0.jpg)](https://www.youtube.com/watch?v=GLoXRyAtytY)
+[![Demo Video](https://img.youtube.com/vi/w4R9VoY96h8/0.jpg)](https://www.youtube.com/watch?v=w4R9VoY96h8)
 
 The code has been written using platform.ide, but you it will work equally well in the Arduino IDE.
 
