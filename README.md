@@ -14,4 +14,4 @@ The code has been written using platform.ide, but you it will work equally well 
 
 For the broadcast example just push the sketch to a couple of ESP32 devices. You should see that pushing the "boot" button on one of the devices turns the LED on and off on both devices.
 
-To set up peer-to-peer communication make a not of the MAC address of one of the devices and use that instead of the broadcast address.
+To set up peer-to-peer communication make a note of the MAC address of one of the devices and use that instead of the broadcast address.
